@@ -162,7 +162,7 @@ class Board{
 
 // console.log(gameDeck);
 
-// let board = new Board();
-// board.start();
+let board = new Board();
+board.start();
 
 
